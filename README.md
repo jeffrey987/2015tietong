@@ -1,3 +1,3 @@
-# http://www.codewars.com
+# 记录自己的挑战记录
+www. odewars.com
 
-为了测试在线挑战题目记录
