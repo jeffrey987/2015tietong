@@ -1,6 +1,3 @@
-# 2015tietong
+# http://www.codewars.com
 
-为了测试webscoket 
-在服务器上创建监听通道
-
-页面用js监听通道
+为了测试在线挑战题目记录
